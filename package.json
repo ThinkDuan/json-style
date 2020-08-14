@@ -1,0 +1,23 @@
+{
+  "name": "json-style",
+  "version": "1.0.0",
+  "description": "a style for json",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkDuan/json-style.git"
+  },
+  "keywords": [
+    "json",
+    "style"
+  ],
+  "author": "duanxinxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThinkDuan/json-style/issues"
+  },
+  "homepage": "https://github.com/ThinkDuan/json-style#readme"
+}
